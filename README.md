@@ -20,8 +20,10 @@ Cada pasta contém uma das etapas do desafio:
 1. Abra o editor de código-fonte de sua preferência (por exemplo, **Visual Studio Code**).  
 2. Abra o terminal integrado - VS Code basta usar o atalho **CTRL + '**.
 3. Digite os seguintes comando: 
- **php parte1/Tarefa1.php** para executar a tarefa 1. 
- **php parte2/Tarefa2.php** para executar a tarefa 2.
+```bash
+ php parte1/Tarefa1.php para executar a tarefa 1. 
+ php parte2/Tarefa2.php para executar a tarefa 2.
+```
 
 Outro modo é usar o atalho **CTRL + ALT + N** (extensão Code Runner) no VS Code, assim rodará o código sem utilizar o terminal.
 
